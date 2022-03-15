@@ -25,8 +25,3 @@
 * [Copy of Copy of Page 1](copy-of-spring/copy-of-copy-of-page-1/README.md)
   * [Copy of Copy of Page 3](copy-of-spring/copy-of-copy-of-page-1/copy-of-copy-of-page-3.md)
 * [Copy of Copy of Page 2](copy-of-spring/copy-of-copy-of-page-2.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
